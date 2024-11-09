@@ -39,10 +39,9 @@ hero:
   hero-title: Hi! I’m <br> Aman <br> Kumar
 
 social:
-  - { icon: "ti-facebook", link: "#" }
-  - { icon: "ti-instagram", link: "#" }
-  - { icon: "ti-dribbble", link: "#" }
-  - { icon: "ti-twitter", link: "#" }
+  - { icon: "ti-linkedin", link: "https://www.linkedin.com/in/amandadwal/" }
+  - { icon: "ti-email", link: "mailto:eaman.aq@gmail.com" }
+  - { icon: "ti-github", link: "https://github.com/amandadwal" }
 
 #-------------------------------
 # About (Section and Page)

@@ -3,15 +3,26 @@
   <div class="section">
     <div class="container">
       <div class="row">
+        <!-- Social Media Links -->
+        <div class="col text-center">
+          <ul class="social-icons list-inline">
+            {% for item in site.data.settings.social %}
+            <li class="list-inline-item">
+              <a href="{{ item.link }}" target="_blank" class="text-light">
+                <i class="{{ item.icon }}"></i>
+              </a>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
       </div>
     </div>
   </div>
   <div class="border-top text-center border-dark py-5">
-    <p class="mb-0 text-light">{{site.data.settings.copyright | markdownify}}</p>
+    <p class="mb-0 text-light">{{ site.data.settings.copyright | markdownify }}</p>
   </div>
 </footer>
 <!-- /footer -->
-
 
 <!-- JS Plugins -->
 {% for js in site.data.plugins.js %}
