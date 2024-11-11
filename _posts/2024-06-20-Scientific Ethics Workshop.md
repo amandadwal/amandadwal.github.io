@@ -1,3 +1,4 @@
+---
 layout: post
 title: Scientific Ethics Workshop
 date: 2024-06-16 21:01:00
