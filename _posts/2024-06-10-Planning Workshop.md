@@ -2,8 +2,8 @@
 layout: post
 title: Planning Workshop
 date: 2024-06-10 21:01:00
-tags: SCI6103 astronomy workshop reflections
-categories: astronomy workshop
+tags: SCI6103 workshop reflections
+categories: astronomy
 ---
 This workshop made me realise how unconventional and unorganized I am at certain things. I should have learned these skills in school. Although I do use some of these techniques intuitively, having a structured framework is very useful. This workshop suggested that I should view my studies, courses, or any big tasks as projects. Dividing the whole project into smaller tasks helps us stay on track. Setting small tasks as weekly goals can make a seemingly big project much more manageable. There are tools available to help us with that, such as calendars, to-do lists, and Gantt charts. Using these tools ensures that all tasks are completed on time and to a certain standard of satisfaction. You can see what is done, what needs to be done, and in what priority. Whether we use the agile technique, project-based technique, scientific method, design thinking, or a mixture of any or all these techniques, we must figure out what works best for us and is appropriate for the required outcome.
 

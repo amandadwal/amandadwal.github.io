@@ -2,8 +2,8 @@
 layout: post
 title: Scientific Ethics Workshop
 date: 2024-06-16 21:01:00
-tags: SCI6103 astronomy workshop reflections
-categories: astronomy workshop
+tags: SCI6103 workshop reflections
+categories: astronomy
 ---
 This workshop focused mainly on animal and human ethics, which is very important. However, it is not currently an issue in astrophysics, though with space exploration it might become relevant in the future. Whether that will involve people on board or considerations regarding animals, contamination or disease transfer to different planetary ecosystems.
 
