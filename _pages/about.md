@@ -2,24 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello, I’m Aman Kumar! My journey into data and astrophysics has been anything but traditional. It has combined experiences from hospitality, analytics, and a lifelong fascination with the stars.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I started in the hospitality industry in a remote part of Perth. With limited entertainment, I unexpectedly found myself diving into online courses through the Open University, UK. One broad science course was all it took to awaken a dormant curiosity about the universe. This initial spark led me down a new path: pursuing a part-time honours degree in Astronomy and Planetary Science. What began as a passion project gradually transformed into something more profound, and in the wake of COVID-19, I enrolled in a Master’s program in Astrophysics at the University of Southern Queensland.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In parallel, I’ve been sharpening my analytical skills, bridging the gap between my curious mind and a desire to make sense of vast datasets—whether astronomical or business-related. Armed with tools like Excel, MySQL, SPSS, Python, and Tableau, I’ve built a strong foundation in statistics, visualization, and data analysis. I’ve realised how much I enjoy working with data, using it to tell compelling stories and drive informed decisions.
+
+Now, I hope this portfolio reflects my journey and skills, highlighting my dual passion for data analytics and the wonders of the cosmos. I am particularly interested in data visualizations that bring insights to life—whether analysing customer patterns or uncovering trends among the stars.
+
+Thank you for visiting my portfolio. I hope my story resonates with you. 
