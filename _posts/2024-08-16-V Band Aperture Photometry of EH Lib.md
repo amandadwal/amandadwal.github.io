@@ -2,7 +2,7 @@
 layout: post
 title: V Band Aperture Photometry of EH Lib
 date: 2024-08-16 21:01:00
-tags: PHY8001 astronomy photometry
+tags: PHY8001 astronomy photometry artifacts
 categories: astronomy
 thumbnail: assets/img/1.jpg
 ---

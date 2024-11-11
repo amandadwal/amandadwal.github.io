@@ -1,0 +1,9 @@
+layout: post
+title: Reflecting on my Presentation
+date: 2024-08-18 21:01:00
+tags: SCI6103 astronomy reflections 
+categories: astronomy 
+---
+The literature review I did early on was detail-heavy on the formation and evolution of Titan. I noticed while critiquing the AI-generated review that compressing such a broad topic into a short format can often lead to missing some details. For example, how various processes on Titan fit into the wider context of planetary science or habitability. The importance of Titan’s comparisons with Earth can also be confusing for those not well-versed in the subject. Previously, I have struggled to find the right balance between being too detailed and overly brief. Transitions from one line of thought to another have been challenging, making it difficult to guide the flow of thought. After completing the first draft, I noticed the same issue: the flow was lacking. In response, I opted to cut out entire sections that dealt with complex chemical processes and physical mechanisms, choosing instead to focus more on Titan’s significance in the context of planetary exploration and habitability.
+
+This change felt abrupt and required significant reworking and many revisions to improve clarity and flow. It seemed to enhance the flow, but it also felt lacking in details.  Details that I had spent countless hours working on. Instead, it felt very generic. However, after reviewing my presentation, I recognise that this restructuring has improved the overall quality. The changes make the narrative more coherent and accessible to a broader audience. This experience underscored the importance of keeping the intended audience in mind. Moving forward, academically and in other areas of my life, I will try this approach. It will improve the clarity and impact of my communications.
