@@ -14,3 +14,6 @@ Revised Question- What is the source of nitrogen in Triton's atmosphere?
 ChatGPT Question- Can you create a 2000 word literature review, using the research ques>on “What
 is the source of nitrogen in Triton's atmosphere?” with citatons?
 
+<object data="{{ '/assets/pdf/ChatGPT_litrev.pdf' | relative_url }}" type="application/pdf" width="100%" height="800px">
+  <p>Your browser does not support embedded PDFs. Please click <a href="{{ '/assets/pdf/your-file.pdf' | relative_url }}">here</a> to view the PDF.</p>
+</object>
