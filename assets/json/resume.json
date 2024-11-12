@@ -10,42 +10,41 @@
     "location": {
       "city": "Melbourne",
       "region": "Victoria"
-    },
-
+    }
+  },
   "certificates": [
     {
       "name": "Business Analytics with SQL and Python",
       "date": "2024",
-      "issuer": "Royal Melbourne Institute of Technology, AU",
+      "issuer": "Royal Melbourne Institute of Technology, AU"
     },
     {
       "name": "Business Analytics and Visualisation",
       "date": "2024",
-      "issuer": "Royal Melbourne Institute of Technology, AU",
-    },
+      "issuer": "Royal Melbourne Institute of Technology, AU"
+    }
   ],
   "education": [
     {
       "institution": "University of Southern Queensland, AU",
       "studyType": "MSc Astrophysics",
-      "Date": "Ongoing",
+      "date": "Ongoing"
     },
     {
       "institution": "Open University, UK",
       "studyType": "BSc. (Hons) in Astronomy and Planetary Science",
-      "Date": "Ongoing",
-    },   
+      "date": "Ongoing"
+    }
   ],
   "skills": [
-        "Data collection and cleaning.",
-        "Data analysis and visualisation.",
-        "Good communication and data storytelling.",
-        "Familiar with Tableau, Python, MySQL, Excel, SPSS",
-      ]
-    }
+    "Data collection and cleaning",
+    "Data analysis and visualisation",
+    "Good communication and data storytelling",
+    "Familiar with Tableau, Python, MySQL, Excel, SPSS"
   ],
   "references": [
     {
-      References are available upon request.
+      "note": "References are available upon request."
+    }
   ]
 }
