@@ -16,24 +16,26 @@
     {
       "name": "Business Analytics with SQL and Python",
       "date": "2024",
-      "issuer": "Royal Melbourne Institute of Technology, AU"
+      "issuer": "Royal Melbourne Institute of Technology, AUS"
     },
     {
       "name": "Business Analytics and Visualisation",
       "date": "2024",
-      "issuer": "Royal Melbourne Institute of Technology, AU"
+      "issuer": "Royal Melbourne Institute of Technology, AUS"
     }
   ],
   "education": [
     {
-      "institution": "University of Southern Queensland, AU",
-      "studyType": "MSc Astrophysics",
-      "date": "Ongoing"
-    },
-    {
       "institution": "Open University, UK",
       "studyType": "BSc. (Hons) in Astronomy and Planetary Science",
-      "date": "Ongoing"
+      "location": "Milton Keynes, UK",
+      "completionYear": "2021",
+    },
+    {
+      "institution": "University of Southern Queensland, AUS",
+      "studyType": "MSc. Astrophysics",
+      "location": "Toowoomba, AUS",
+      "completionYear": "Ongoing",
     }
   ],
   "skills": [
