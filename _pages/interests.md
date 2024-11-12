@@ -22,7 +22,7 @@ I am interested in the methods used to find exoplanets, determining their variou
 ### Astrobiology
 Everything comes down to this—I am intrigued by the search for life beyond Earth. Exploring the origins of life, what are the necessary conditions that make a world habitable? And is there potential for the existence of extraterrestrial organisms or intelligence?
 
-## Data Analysis, Visualization, and Modeling
+## Visualising data and modelling
 
 Alongside astronomy, data analysis with Python, as well as data visualisation and modelling, are major interests that drive me. The ability to leverage data to uncover insights, especially within large, complex datasets, is powerful and fascinating. Using Python for data manipulation, combined with libraries like Pandas, Matplotlib, and Seaborn, I enjoy transforming raw data into meaningful visual representations. Data modelling further fuels my curiosity as it enables simulations and predictions that can bring theoretical concepts to life.
 
