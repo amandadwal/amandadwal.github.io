@@ -29,22 +29,25 @@
       "institution": "Open University, UK",
       "studyType": "BSc. (Hons) in Astronomy and Planetary Science",
       "location": "Milton Keynes, UK",
-      "completionYear": "2021"
+      "endDate": "2021"
     },
     {
       "institution": "University of Southern Queensland, AUS",
       "studyType": "MSc. Astrophysics",
       "location": "Toowoomba, AUS",
-      "completionYear": "Ongoing"
+      "endDate": "Ongoing"
     }
   ],
   "skills": [
     {
+      "name": "Data Analysis",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Data collection and cleaning",
-        "Data analysis and visualisation",
-        "Good communication and data storytelling",
-        "Familiar with Tableau, Python, MySQL, Excel, SPSS"
+        "Data collection and cleaning.",
+        "Data analysis and visualisation.",
+        "Good communication and data storytelling.",
+        "Familiar with Tableau, Python, MySQL, Excel, SPSS."
       ]
     }
   ],
@@ -52,5 +55,5 @@
     {
       "reference": "References are available upon request."
     }
-  ],
+  ]
 }
