@@ -7,53 +7,62 @@
     "phone": "(+61) 430 470 064",
     "url": "https://amandadwal.github.io/",
     "summary": "A recent graduate in Data Analytics from RMIT with a background in the hospitality industry offering strong team leadership, problem-solving, and communication skills. Familiar with Excel, SPSS, MySQL, Python and Tableau. Transitioning to data analytics, driven by a passion for using data insights to support decision-making and continuous learning.",
-    "location": {
-      "city": "Melbourne",
-      "region": "Victoria"
-    }
+  }
+},
+"certificates": [
+  {
+    "name": "Business Analytics with SQL and Python",
+    "date": "2024",
+    "issuer": "Royal Melbourne Institute of Technology, AUS"
   },
-  "certificates": [
-    {
-      "name": "Business Analytics with SQL and Python",
-      "date": "2024",
-      "issuer": "Royal Melbourne Institute of Technology, AUS"
-    },
-    {
-      "name": "Business Analytics and Visualisation",
-      "date": "2024",
-      "issuer": "Royal Melbourne Institute of Technology, AUS"
-    }
-  ],
-  "education": [
-    {
-      "institution": "Open University, UK",
-      "studyType": "BSc. (Hons) in Astronomy and Planetary Science",
-      "location": "Milton Keynes, UK",
-      "endDate": "2021"
-    },
-    {
-      "institution": "University of Southern Queensland, AUS",
-      "studyType": "MSc. Astrophysics",
-      "location": "Toowoomba, AUS",
-      "endDate": "Ongoing"
-    }
-  ],
-  "skills": [
-    {
-      "name": "Data Analysis",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Data collection and cleaning.",
-        "Data analysis and visualisation.",
-        "Good communication and data storytelling.",
-        "Familiar with Tableau, Python, MySQL, Excel, SPSS."
-      ]
-    }
-  ],
-  "references": [
-    {
-      "reference": "References are available upon request."
-    }
-  ]
+  {
+    "name": "Business Analytics and Visualisation",
+    "date": "2024",
+    "issuer": "Royal Melbourne Institute of Technology, AUS"
+  }
+],
+"certificates": [
+  {
+    "name": "BSc. (Hons) Astronomy and Planetary Science",
+    "date": "2021",
+    "issuer": "Open University, UK"
+  },
+  {
+    "name": "MSc. Astrophysics",
+    "date": "Ongoing",
+    "issuer": "University of Southern Queensland, AUS"
+  }
+],
+"education": [
+  {
+    "institution": "Open University, UK",
+    "studyType": "BSc. (Hons) in Astronomy and Planetary Science",
+    "location": "Milton Keynes, UK",
+    "endDate": "2021"
+  },
+  {
+    "institution": "University of Southern Queensland, AUS",
+    "studyType": "MSc. Astrophysics",
+    "location": "Toowoomba, AUS",
+    "endDate": "Ongoing"
+  }
+],
+"skills": [
+  {
+    "name": "Data Analysis",
+    "level": "Master",
+    "icon": "fa-solid fa-hashtag",
+    "keywords": [
+      "Data collection and cleaning.",
+      "Data analysis and visualisation.",
+      "Good communication and data storytelling.",
+      "Familiar with Tableau, Python, MySQL, Excel, SPSS."
+    ]
+  }
+],
+"references": [
+  {
+    "reference": "References are available upon request."
+  }
+]
 }

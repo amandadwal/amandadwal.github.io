@@ -6,7 +6,7 @@ nav: true
 nav_order: 3
 ---
 
-## Programs/tools that I love to use and support-
+## Applications/tools that I love to use and support-
 
 Most of these are free, for some there is a paid pro version but there is no need to use that for most of us.
 
@@ -22,7 +22,7 @@ Most of these are free, for some there is a paid pro version but there is no nee
 
 - [Github](https://github.com/): A platform for version control and collaboration that allows developers to host, manage, and share their code repositories.
 
-## Useful books/papers-
+## Getting started- reading list -
 
 Most of these should be freely accessible from the library. If not, there are always video tutorials on Youtube etc., that we can use to learn most of this - these days.
 
