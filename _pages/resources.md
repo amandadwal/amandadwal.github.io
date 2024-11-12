@@ -6,7 +6,7 @@ nav: true
 nav_order: 3
 ---
 
-## Applications/tools that I love to use and support-
+## Applications/tools that I use and support-
 
 Most of these are free, for some there is a paid pro version but there is no need to use that for most of us.
 
