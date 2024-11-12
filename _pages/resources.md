@@ -12,7 +12,7 @@ Most of these are free, for some there is a paid pro version but there is no nee
 
 - [AstroImageJ](https://www.astro.louisville.edu/software/astroimagej/): AstroImageJ is an open-source software designed for the analysis and visualization of astronomical images, providing tools for tasks such as photometry, astrometry, and image processing.
 
-- [Anaconda](https://www.anaconda.com/) is a good place to start for a scientific Python environment. It comes with a navigator app for easy access to the most used tools, such as Spyder IDE and Jupyter Labs notebooks.
+- [Anaconda](https://www.anaconda.com/): is a good place to start for a scientific Python environment. It comes with a navigator app for easy access to the most used tools, such as Spyder IDE and Jupyter Labs notebooks.
 
 - [Mendeley](https://www.mendeley.com/): A reference manager which is easy to use and integrate with MS Word and plently of plugin available for formatting.
 
