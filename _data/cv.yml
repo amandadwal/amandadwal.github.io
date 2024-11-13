@@ -27,15 +27,16 @@
       year: 2021
 
 - title: Skills
-  type: nested_list
+  type: map
   contents:
-    contents:
-    - title: 
-      items:
-        - Data collection and cleaning.
-        - Data analysis and visualisation.
-        - Good communication and data storytelling.
-        - Working with Tableau, Python, MySQL and Excel.
+    - name: 
+      value: Data collection and cleaning.
+    - name: 
+      value: Data analysis and visualisation.
+    - name:
+      value: Good communication and data storytelling.
+    - name:
+      value: Skilled in Tableau, Python, MySQL and Excel.
        
 - title: References
   type: nested_list
