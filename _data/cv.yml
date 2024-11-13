@@ -3,6 +3,8 @@
   contents:
     - name: Name
       value: Aman Kumar
+    - name: Summary
+      value: A recent graduate in Data Analytics from RMIT with a background in the hospitality industry offering strong team leadership, problem-solving, and communication skills. Familiar with Excel, SPSS, MySQL, Python and Tableau. Transitioning to data analytics, driven by a passion for using data insights to support decision-making and continuous learning.
 
 - title: Certificates
   type: time_table
@@ -27,6 +29,8 @@
 - title: Skills
   type: nested_list
   contents:
+    contents:
+    - title: 
       items:
         - Data collection and cleaning.
         - Data analysis and visualisation.
