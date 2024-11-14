@@ -4,8 +4,7 @@ title: project 7
 description: Electricity Mix, AUSTRALIA vs EUROPEAN UNION
 img: assets/img/proj/p1/1.png
 importance: 1
-category: 
-related_publications: 
+category: work 
 ---
 
 Electricity is one of three components of total energy production, alongside transport and heating(Ritchie and Rosado, 2020) .There are various methods of electricity production, such as using fossil fuels, renewables, and nuclear energy.
