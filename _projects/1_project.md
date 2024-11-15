@@ -7,9 +7,9 @@ importance: 1
 category: work 
 ---
 
-Electricity is one of three components of total energy production, alongside transport and heating (Ritchie and Rosado, 2020).There are various methods of electricity production, such as using fossil fuels, renewables, and nuclear energy.
+Electricity is one of three components of total energy production, alongside transport and heating (Ritchie and Rosado, 2020). There are various methods of electricity production, such as using fossil fuels, renewables, and nuclear energy.
 
-We will take a look at Australia and the 27 EU countries to see if there are any differences in the mix of electricity sources. This analysis focuses on the breakdown of these sources and how Australia contrasts with the EU in energy production. And where are we headed? Data was downloaded from Ritchie et al.(2023).
+We will look at Australia and the 27 EU countries to see if there are any differences in the mix of electricity sources. This analysis focuses on the breakdown of these sources and how Australia contrasts with the EU in energy production. And where are we headed? Data was downloaded from Ritchie et al.(2023).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -24,7 +24,9 @@ As we can see -
 
 - Dramatic changes in the electricity mix are evident over time. Both regions show a steady decline in coal's role in electricity production.
 
-- Population growth has led to increased electricity demand and hence more production in both regions.But Australia still remains more dependent on coal compared to the EU.
+- Population growth has led to increased electricity demand and hence more production in both regions. However, Australia remains more dependent on coal.
+
+#### By 1990s
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -32,11 +34,11 @@ As we can see -
     </div>
 </div>
 
-#### By 1990
-
-- Most of Electrcity genrated was from fossils fuels
+- Most of the Electricity generated was from fossil fuels.
 
 - 90% of Australia's electricity was generated from fossil fuels.
+
+#### By 2022
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -44,15 +46,13 @@ As we can see -
     </div>
 </div>
 
-#### By 2022
+- There is a shift towards more renewable sources of energy.
 
-There is clearly a shift towards more renewables sources of energy.
+- EU has nearly even split between fossils and renewables.
 
-- Clearly great strides in renewables to generate electricity.
+- Australia has increased its renewable electricity production 3 times.
 
-- EU nearly has even split between fossils and renewables.
-
-- Australia has increased its renewable elctricity production 3 times.
+#### Low Carbons(Nuclear and Renewables) Vs Fossils
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -60,15 +60,12 @@ There is clearly a shift towards more renewables sources of energy.
     </div>
 </div>
 
-- In EU, low carbon  generation of electricty is increasing steadily while fossils use is declining
+- Generally, low-carbons use is increasing in the generation of electricity while fossil use is declining.
 
-- In Australia there is a more dramatic uptick of low carbons and a downturn for fossils use in electricty production.
+- We can see this accelerates two times- the first one around 2008 and the second one around 2016
+These timings align with the Kyoto Protocol (ATS, 2008) and the Paris Agreement (ATS, 2016).
 
-- Solar and wind are the drivers of this growth.
- 
-- We can clearly see this accelerates two times- first one around 2008 and the second one around 2016
-
-- This timing match the Kyoto protocol (ATS, 2008)  and the Paris agreement (ATS, 2016).
+#### Australian Future
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -76,26 +73,30 @@ There is clearly a shift towards more renewables sources of energy.
     </div>
 </div>
 
-### SUMMARY
+- In Australia, there is a more dramatic uptick in low-carbons and a downturn in fossil use in electricity production.
+
+- Solar and wind are the main drivers of this growth.
+
+#### SUMMARY
 
 The main question we are trying to address is: How does the electricity mix Of Australia compare to the EU, and in future which source of electricity should we invest more in?
 
-- We found that  the current dominant sources of electricity in Australia and the EU are coal and gas.
+- We found that the current dominant sources of electricity in Australia and the EU are coal and gas.
 
 - Australia remains heavily dependent on coal compared to the EU.
 
-- There is a continued decline in coal use and growth in wind and solar in both regions. 
+- There is a continued decline in coal use and growth in wind and solar in both regions.
 
-We suggest that Australia should further diversify its energy mix by accelerating the transition to low-carbon sources, following the approach of European Union and as a participator in international climage negotiations (Loynes KL,2017). 
+We suggest that Australia should further diversify its energy mix by accelerating the transition to low-carbon sources, following the approach of the European Union and as a participator in international climate negotiations (Loynes KL,2017).
 
 ### REFERENCES
 
-ATS (2008) Australian treaty series, Kyoto Protocol to the United Nations Framework Convention on Climate Change (Kyoto, 11 December 1997) - [2008] ATS 2. Available at: https://www.austlii.edu.au/au/other/dfat/treaties/ATS/2008/2.html (Accessed: 13 September 2024).
+ATS (2008) Australian treaty series, Kyoto Protocol to the United Nations Framework Convention on Climate Change (Kyoto, 11 December 1997) - [2008] ATS 2. Available at: https://www.austlii.edu.au/au/other/dfat/treaties/ATS/2008/2.html
 
-ATS (2016) Australian treaties Series, PARIS AGREEMENT (PARIS, 12 DECEMBER 2015) - [2016] ATS 24. Available at: https://www.austlii.edu.au/cgi-bin/sinodisp/au/other/dfat/treaties/ATS/2016/24.html?stem=0&synonyms=0&query= (Accessed: 16 September 2024).
+ATS (2016) Australian treaties Series, PARIS AGREEMENT (PARIS, 12 DECEMBER 2015) - [2016] ATS 24. Available at: https://www.austlii.edu.au/cgi-bin/sinodisp/au/other/dfat/treaties/ATS/2016/24.html?stem=0&synonyms=0&query=
 
-Loynes KL (2017) Climate change-the international approach, Parliament of Australia. Available at: https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/pubs/BriefingBook45p/InternationalApproach (Accessed: 14 September 2024).
+Loynes KL (2017) Climate change-the international approach, Parliament of Australia. Available at: https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/pubs/BriefingBook45p/InternationalApproach
 
-Ritchie H and Rosado P(2020) - “Electricity Mix” Published online at OurWorldinData.org. Available at: 'https://ourworldindata.org/electricity-mix' (Accessed: 12 September 2024). 
+Ritchie H and Rosado P(2020) - “Electricity Mix” Published online at OurWorldinData.org. Available at: 'https://ourworldindata.org/electricity-mix' 
 
-Ritchie H, Rosado P and Roser M (2023) OWID/energy-data: Data on energy by our world in Data, GitHub. Available at: https://github.com/owid/energy-data (Accessed: 12 September 2024).
+Ritchie H, Rosado P and Roser M (2023) OWID/energy-data: Data on energy by our world in Data, GitHub. Available at: https://github.com/owid/energy-data
